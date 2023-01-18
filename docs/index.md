@@ -120,4 +120,4 @@ Here’s the worker diagram.
 
 ## Next Steps
 
-Install the package and run the examples.
+[Install the package](../README.md#install-the-package) and run the examples.
