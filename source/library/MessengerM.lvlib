@@ -13,47 +13,47 @@
 
 </Property>
 	<Item Name="MessengerMBase" Type="Folder">
-		<Item Name="MessengerMBase.lvclass" Type="LVClass" URL="/&lt;resource&gt;/Channels/MessengerM/MessengerMBase/MessengerMBase.lvclass"/>
+		<Item Name="MessengerMBase.lvclass" Type="LVClass" URL="../MessengerMBase/MessengerMBase.lvclass"/>
 	</Item>
 	<Item Name="MessengerMCPU" Type="Folder">
 		<Item Name="SubChannelCPU" Type="Folder">
-			<Item Name="SubChannelCPU.lvclass" Type="LVClass" URL="/&lt;resource&gt;/Channels/MessengerM/MessengerMCPU/SubChannelCPU/SubChannelCPU.lvclass"/>
+			<Item Name="SubChannelCPU.lvclass" Type="LVClass" URL="../MessengerMCPU/SubChannelCPU/SubChannelCPU.lvclass"/>
 		</Item>
-		<Item Name="MessengerMCPU.lvclass" Type="LVClass" URL="/&lt;resource&gt;/Channels/MessengerM/MessengerMCPU/MessengerMCPU.lvclass"/>
+		<Item Name="MessengerMCPU.lvclass" Type="LVClass" URL="../MessengerMCPU/MessengerMCPU.lvclass"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="ChannelOp.ctl" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/ChannelOp.ctl"/>
-		<Item Name="EndpointOp.ctl" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/EndpointOp.ctl"/>
-		<Item Name="Endpoint.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Endpoint.vi"/>
-		<Item Name="Channel Probe.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Channel Probe.vi"/>
-		<Item Name="Wire Probe.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Wire Probe.vi"/>
-		<Item Name="Channel Probe_Find Specific VI.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Channel Probe_Find Specific VI.vi"/>
-		<Item Name="Channel Probe_Background Updater.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Channel Probe_Background Updater.vi"/>
-		<Item Name="RdID.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/RdID.vi"/>
-		<Item Name="ParmsIn.ctl" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/ParmsIn.ctl"/>
-		<Item Name="ParmsOut.ctl" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/ParmsOut.ctl"/>
+		<Item Name="ChannelOp.ctl" Type="VI" URL="../ChannelOp.ctl"/>
+		<Item Name="EndpointOp.ctl" Type="VI" URL="../EndpointOp.ctl"/>
+		<Item Name="Endpoint.vi" Type="VI" URL="../Endpoint.vi"/>
+		<Item Name="Channel Probe.vi" Type="VI" URL="../Channel Probe.vi"/>
+		<Item Name="Wire Probe.vi" Type="VI" URL="../Wire Probe.vi"/>
+		<Item Name="Channel Probe_Find Specific VI.vi" Type="VI" URL="../Channel Probe_Find Specific VI.vi"/>
+		<Item Name="Channel Probe_Background Updater.vi" Type="VI" URL="../Channel Probe_Background Updater.vi"/>
+		<Item Name="RdID.vi" Type="VI" URL="../RdID.vi"/>
+		<Item Name="ParmsIn.ctl" Type="VI" URL="../ParmsIn.ctl"/>
+		<Item Name="ParmsOut.ctl" Type="VI" URL="../ParmsOut.ctl"/>
 	</Item>
 	<Item Name="ReadEndpoints" Type="Folder">
-		<Item Name="Read Ack With Abort.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Read Ack With Abort.vi"/>
-		<Item Name="Read Ack.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Read Ack.vi"/>
-		<Item Name="Read Scheduled.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Read Scheduled.vi"/>
-		<Item Name="Read With Abort.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Read With Abort.vi"/>
-		<Item Name="Read.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Read.vi"/>
-		<Item Name="Read Command.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Read Command.vi"/>
-		<Item Name="Read Response.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Read Response.vi"/>
+		<Item Name="Read Ack With Abort.vi" Type="VI" URL="../Read Ack With Abort.vi"/>
+		<Item Name="Read Ack.vi" Type="VI" URL="../Read Ack.vi"/>
+		<Item Name="Read Scheduled.vi" Type="VI" URL="../Read Scheduled.vi"/>
+		<Item Name="Read With Abort.vi" Type="VI" URL="../Read With Abort.vi"/>
+		<Item Name="Read.vi" Type="VI" URL="../Read.vi"/>
+		<Item Name="Read Command.vi" Type="VI" URL="../Read Command.vi"/>
+		<Item Name="Read Response.vi" Type="VI" URL="../Read Response.vi"/>
 	</Item>
 	<Item Name="WriteEndpoints" Type="Folder">
-		<Item Name="Write Ack.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Write Ack.vi"/>
-		<Item Name="Write Scheduled.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Write Scheduled.vi"/>
-		<Item Name="Write With Abort.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Write With Abort.vi"/>
-		<Item Name="Write.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Write.vi"/>
-		<Item Name="Write Command.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Write Command.vi"/>
-		<Item Name="Write Response.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Write Response.vi"/>
+		<Item Name="Write Ack.vi" Type="VI" URL="../Write Ack.vi"/>
+		<Item Name="Write Scheduled.vi" Type="VI" URL="../Write Scheduled.vi"/>
+		<Item Name="Write With Abort.vi" Type="VI" URL="../Write With Abort.vi"/>
+		<Item Name="Write.vi" Type="VI" URL="../Write.vi"/>
+		<Item Name="Write Command.vi" Type="VI" URL="../Write Command.vi"/>
+		<Item Name="Write Response.vi" Type="VI" URL="../Write Response.vi"/>
 	</Item>
-	<Item Name="))Channel.ctl" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/))Channel.ctl"/>
-	<Item Name="))Channel.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/))Channel.vi"/>
-	<Item Name="Element.ctl" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Element.ctl"/>
-	<Item Name="Instantiate.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Instantiate.vi"/>
-	<Item Name="Replicate.vi" Type="VI" URL="/&lt;resource&gt;/Channels/MessengerM/Replicate.vi"/>
+	<Item Name="))Channel.ctl" Type="VI" URL="../))Channel.ctl"/>
+	<Item Name="))Channel.vi" Type="VI" URL="../))Channel.vi"/>
+	<Item Name="Element.ctl" Type="VI" URL="../Element.ctl"/>
+	<Item Name="Instantiate.vi" Type="VI" URL="../Instantiate.vi"/>
+	<Item Name="Replicate.vi" Type="VI" URL="../Replicate.vi"/>
 </Library>

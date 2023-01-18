@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="19008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">MessengerM.lvlib</Property>
-	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../../MessengerM.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../MessengerM.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*/!!!*Q(C=\&gt;5`4E*"%-@RH]&lt;#FM3%W!F8G#NQ";YQ6[#V-?%+5VB9W(!#$6?9+V"9W8%&amp;`/YS%)E"'IU7PO@SZ\?\MR`?WTSF@FR,6^K=/VZ0(KW`$7L$.K`&lt;Y4XL@`XT^HX&lt;@`BSN0^A`K\?LH\FGXX`&lt;N+R_6`\$^=P&gt;0W3,`[TP`^U`ZF$`]@`]&lt;P(`&gt;F._O.\^E,N152,7N#=:GJ,&lt;:)]S:-]S:-]S9-]S)-]S)-]S*X=S:X=S:X=S9X=S)X=S)X=S0N*,H+2CRR3MHCS5&amp;)U+:!-BK,E*@%EHM34?0CKR*.Y%E`C34Q-5?**0)EH]31?JCHR**\%EXA3$[7[*0N*DC@R5&amp;["*`!%HM!4?&amp;B3A3=!")M&amp;B9-C-"2U"B]#4_!*0(R5Y!E]A3@Q""[[&amp;8A#4_!*0)'(+@WK2.?UERQ0:?2Y()`D=4S/B^*S0)\(]4A?R].S=DS/RU%Y#TL&amp;)=C:Z!RQPDA?R]/&lt;()`D=4S/R`(1V?_1^SP4./UERW.Y$)`B-4S'BR)S0)&lt;(]"A?QU.:'2\$9XA-D_&amp;B+2E?QW.Y$)CR+-P,+':-.!9:A?(BL_]7[X=JOM4[+&gt;8G67V+V7:4&lt;3,6ZF$&gt;&gt;.8.6.UEV=688646R6*&gt;".705[&amp;6'.5CKMFNI.;]LGB,WI)WJ]VI5^K%.K9.WN2P(LB?L\6;L&lt;2=,L69,$3@TT7&lt;T43&gt;4D7:4$1?DT59$0;0A4P/`1.B_VS[Z`0D](&lt;U&gt;0.-?RL&amp;=04WQ0M$XV`?&lt;U?NP\5@_F`["Z[.ON4HOFSD$QMG'0M!!!!!</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.6</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
