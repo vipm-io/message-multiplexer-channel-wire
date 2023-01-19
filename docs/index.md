@@ -44,6 +44,8 @@ This is a simple example but it’s a useful pattern whenever you have an applic
 
 Here’s a video showing it in operation.
 
+https://user-images.githubusercontent.com/381432/213541229-02f4c905-000d-4c37-8210-b3a2ade7f5f4.mp4
+
 <video controls>
   <source src="content/multistationcontroller.mp4" type="video/mp4">
 </video>
@@ -85,6 +87,8 @@ Client requests a service; the worker reports progress and ultimate completion.
 Client can pause & resume the worker; client’s exit causes worker to exit.
 The panel on the worker is just for debugging.
 The panel on the client enables me to emulate what the client could be doing autonomously.
+
+https://user-images.githubusercontent.com/381432/213541285-e3ca1e3a-80b9-44ab-9f3b-872686fdae34.mp4
 
 <video controls>
   <source src="content/demo-3.mp4" type="video/mp4">
