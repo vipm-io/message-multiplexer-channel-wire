@@ -1,4 +1,6 @@
 # Multiplexed Messenger Channel Wire for LabVIEW
+![LabVIEW Version](https://img.shields.io/badge/LabVIEW-2019-%23E37725.svg?})
+[![Image](https://www.vipm.io/package/channels_messenger_multiplexed/badge.svg?metric=installs)](https://www.vipm.io/package/channels_messenger_multiplexed/) [![Image](https://www.vipm.io/package/channels_messenger_multiplexed/badge.svg?metric=stars)](https://www.vipm.io/package/channels_messenger_multiplexed/)
 
 The Multiplexed Messenger Channel Wire (MessengerM) represents multiple Messenger sub-Channels with one wire.
 
